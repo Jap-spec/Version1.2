@@ -43,7 +43,7 @@ body {
     height: auto;
     margin: 0 auto 30px;
     display: block;
-    animation: heartbeat 2s infinite; 
+    animation: heartbeat 4s infinite; 
 }
 
 
